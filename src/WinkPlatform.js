@@ -99,6 +99,7 @@ module.exports = class WinkPlatform {
       switch_ids: [],
       window_ids: [],
       vent_ids: [],
+      leak_ids: [],
       ...config
     };
 
